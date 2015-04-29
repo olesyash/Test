@@ -1,3 +1,5 @@
 import  sys
-print sys.argv[1]
-print "hello world"
+if len(sys.argv)>1:
+	print sys.argv[1]
+else:	
+	print "hello world"

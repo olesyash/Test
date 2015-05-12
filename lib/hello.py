@@ -1,3 +1,4 @@
+from greeter import greeter
 #Default is "World"
 #Author is Olesya <ilana.olesya@gmail.com>
 import  sys
